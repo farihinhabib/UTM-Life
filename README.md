@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farihin Habib</h1>
+<h1 align="center">Hi 👋, My Life in Universiti Teknologi Malaysia</h1>
 <h3 align="center">A passionate frontend developer from Universiti Teknologi Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farihinhabib&label=Profile%20views&color=0e75b6&style=flat" alt="farihinhabib" /> </p>
